@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there :sunglasses:
+I'm Devesh Vasnani. I mainly work with backend development and tasks involed with deployment process. I am also interested in game programming!<br>
+Check out my repositories!
+
+### Reach out to me 📫
+Linkedin - https://www.linkedin.com/in/deveshvasnani<br>
+Mail - deveshvasnani@gmail.com
 
 <!--
 **Tyndallray/Tyndallray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
