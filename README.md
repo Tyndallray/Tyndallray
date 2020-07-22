@@ -1,4 +1,4 @@
-### Hi there :sunglasses:
+### Devesh Vasnani - [tyndallray.com](www.tyndallray.com)
 I'm Devesh Vasnani. I mainly work with backend development and tasks involed with deployment process. I am also interested in game programming!<br>
 Check out my repositories!
 
