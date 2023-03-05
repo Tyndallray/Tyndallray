@@ -7,7 +7,7 @@ I am passionate about creating efficient and innovative solutions for businesses
 
 I specializes in creating cloud-based infrastructure for websites and applications, as well as developing user-friendly interfaces and optimizing website performance. I'm able to design and implement scalable and efficient web solutions that can meet the needs of modern businesses.
 
-Feel free to reach out to me
+Feel free to reach out to me<br>
 Linkedin - https://www.linkedin.com/in/deveshvasnani<br>
 Mail - deveshvasnani@gmail.com
 
